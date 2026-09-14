@@ -37,9 +37,9 @@
             this.label1.Font = new System.Drawing.Font("Arial Black", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(143, 34);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(489, 32);
+            this.label1.Size = new System.Drawing.Size(499, 32);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Student Profile —Paul Daniel Capagas";
+            this.label1.Text = "Student Profile — GitHub Beginner Lab";
             // 
             // Form1
             // 
